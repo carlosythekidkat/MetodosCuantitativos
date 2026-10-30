@@ -1,0 +1,43 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# R Environment files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Microsoft Office lock and temporary files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+# Prohibir generación y subida de imágenes (Restricción estricta de evaluación)
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.bmp
+*.tiff
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
